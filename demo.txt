@@ -1,2 +1,2 @@
-This is line one
+This is line in branch1
 This is line two
